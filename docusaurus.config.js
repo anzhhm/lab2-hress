@@ -11,7 +11,7 @@ const config = {
   title: 'My Lab is cool',
   tagline: 'Dinosaurs are cool so are the primates!',
   favicon: 'img/favicon.ico',
-  
+
   // Set the production url of your site here
   url: 'https://anzhhm.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'My Lab Site',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -99,7 +99,7 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Community of apes',
             items: [
               {
                 label: 'Stack Overflow',
