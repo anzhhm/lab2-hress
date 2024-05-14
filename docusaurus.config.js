@@ -9,9 +9,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Lab is cool',
-  tagline: 'Dinosaurs are cool so are the primates',
+  tagline: 'Dinosaurs are cool so are the primates!',
   favicon: 'img/favicon.ico',
-
+  
   // Set the production url of your site here
   url: 'https://anzhhm.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
